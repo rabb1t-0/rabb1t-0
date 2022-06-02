@@ -1,4 +1,11 @@
-<h2 align="left">Hi, I'm David (<i>aka rabb1t</i>)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20px" height="25px"/></h2>
+<h2 align="left">
+  Hi, I'm David (<i>aka rabb1t</i>)
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20px" height="25px"/>
+</h2>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=rabb1t-0.rabb1t-0)
+![](https://img.shields.io/github/stars/rabb1t-0/rabb1t-0)
+![](https://img.shields.io/github/forks/rabb1t-0/rabb1t-0)
 
 - 🌱 I’m currently learning Docker and C++.
 - 🔭 I’m currently to learn and consolidate my knowledge of the tools and programming languages that I use.
@@ -15,8 +22,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  
-  
   
   <a href="https://python.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
@@ -53,5 +58,3 @@
 [![Instagram Badge](https://img.shields.io/badge/-@__rabb1t\._0-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rabb1t\._0/)](https://instagram.com/rabb1t\._0)
   
 [![my github activity graph](https://activity-graph.herokuapp.com/graph?username=rabb1t-0&theme=dracula)](https://github.com/rabb1t-0/)
-  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=rabb1t-0.rabb1t-0)
