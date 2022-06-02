@@ -38,7 +38,7 @@
   <a href="shell" target="_blank">
      <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   </a>
-  
+  <h3> Where to find me</h3>
   [![rabb1t's github activity graph](https://activity-graph.herokuapp.com/graph?username=rabb1t&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rabb1t0xf.rabb1t0xf)
