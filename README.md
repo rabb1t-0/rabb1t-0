@@ -1,4 +1,11 @@
-<h2 align="left">:hammer_and_wrench: Tools I use:</h2>
+<h2 align="left">Hi, I'm David (<i>aka rabb1t</i>)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20px" height="25px"/></h2>
+
+- 🌱 I’m currently learning Docker and C++.
+- 🔭 I’m currently to learn and consolidate my knowledge of the tools and programming languages that I use.
+- 😀 I like to code, write and read.
+- ⚡ Fun fact: My first line of code was not "Hello World!"
+
+<h2 align="left">:hammer_and_wrench: Tools I use :hammer_and_wrench:</h2>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank">
@@ -38,8 +45,13 @@
   <a href="shell" target="_blank">
      <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   </a>
-  <h3> Where to find me</h3>
-  [![rabb1t's github activity graph](https://activity-graph.herokuapp.com/graph?username=rabb1t&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rabb1t0xf.rabb1t0xf)
 </p>
+<h2 align="left">Where to find me</h2>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-rabb1t-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rabb1t/)](https://www.linkedin.com/in/rabb1t/) 
+[![Twitter Badge](https://img.shields.io/badge/-@__rabb1t-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rabb1t)](https://twitter.com/rabb1t)
+[![Instagram Badge](https://img.shields.io/badge/-@__rabb1t\._0-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rabb1t\._0/)](https://instagram.com/rabb1t\._0)
+  
+[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=rabb1t-0&theme=dracula)](https://github.com/rabb1t-0/)
+  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rabb1t-0.rabb1t-0)
