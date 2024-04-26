@@ -10,7 +10,8 @@
 - 🌱 I’m currently learning Docker and C++.
 - 🔭 I’m currently to learn and consolidate my knowledge of the tools and programming languages that I use.
 - 😀 I like to code, write and read.
-- ⚡ Fun fact: My first line of code was not "Hello World!"
+- ⚡ Fun fact: My first line of code was not "Hello World!".
+- I'm a penetration tester.
 
 <h2 align="left">:hammer_and_wrench: Tools I use :hammer_and_wrench:</h2>
 
