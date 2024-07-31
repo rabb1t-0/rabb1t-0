@@ -51,7 +51,3 @@
 <h2 align="left">Where to find me</h2>
   
 [![Linkedin Badge](https://img.shields.io/badge/-rabb1t-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rabb1t/)](https://www.linkedin.com/in/rabb1t/) 
-[![Twitter Badge](https://img.shields.io/badge/-@__rabb1t-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rabb1t)](https://twitter.com/rabb1t)
-[![Instagram Badge](https://img.shields.io/badge/-@__rabb1t\._0-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rabb1t\._0/)](https://instagram.com/rabb1t\._0)
-  
-[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=rabb1t-0&theme=dracula)](https://github.com/rabb1t-0/)
