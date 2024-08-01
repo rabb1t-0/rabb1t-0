@@ -7,11 +7,10 @@
 ![](https://img.shields.io/github/stars/rabb1t-0/rabb1t-0)
 ![](https://img.shields.io/github/forks/rabb1t-0/rabb1t-0)
 
-- 🌱 I’m currently learning Docker and C++.
+- 🚀 I am currently an AppSec Engineer in a startup.
 - 🔭 I’m currently to learn and consolidate my knowledge of the tools and programming languages that I use.
 - 😀 I like to code, write and read.
 - ⚡ Fun fact: My first line of code was not "Hello World!".
-- I'm a penetration tester.
 
 <h2 align="left">:hammer_and_wrench: Tools I use :hammer_and_wrench:</h2>
 
